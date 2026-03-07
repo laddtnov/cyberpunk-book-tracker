@@ -11,7 +11,7 @@
 A futuristic book tracking system with neon-cyberpunk aesthetics, Fallout 3-style terminal interface, and typewriter sound effects.
 
 [🌐 Live Demo](https://cyberpunk-book-tracker.vercel.app/)
-![Portfolio Preview](screenshot-book-terminal.png)![Portfolio Preview](screenshot-book-desktop.png)
+![Portfolio Preview](screenshot-book-terminal.png)![Portfolio Preview](Screenshot-book-desktop.png)
 
 </div>
 
